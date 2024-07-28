@@ -141,15 +141,15 @@ The RAG (Retrieve and Generate) pipeline used in this project leverages Groq's L
 
 ## Usage
 
-To run the email reply system, execute the `email_reply_system.py` script:
+To run the email reply system, execute the `main.py` script:
 
 ```sh
-python email_reply_system.py
+python main.py
 
 ## Usage
 
-To run the email reply system, execute the `email_reply_system.py` script:
+To run the email reply system, execute the `main.py` script:
 
 ```sh
-python email_reply_system.py
+python main.py
 
