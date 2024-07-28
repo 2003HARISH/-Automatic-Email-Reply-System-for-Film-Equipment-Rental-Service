@@ -23,8 +23,8 @@ This project is an Automatic Email Reply System designed for a Film Equipment Re
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/email-reply-system.git
-    cd email-reply-system
+    git clone https://github.com/2003HARISH/-Automatic-Email-Reply-System-for-Film-Equipment-Rental-Service.git
+    cd Automatic-Email-Reply-System-for-Film-Equipment-Rental-Service
     ```
 
 2. **Install Required Packages**:
