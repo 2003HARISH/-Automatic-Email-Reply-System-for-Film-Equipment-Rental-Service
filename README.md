@@ -151,5 +151,6 @@ python main.py
 To run the email reply system, execute the `main.py` script:
 
 ```sh
+python database_setup.py
 python main.py
 
